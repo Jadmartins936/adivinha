@@ -1,4 +1,4 @@
-# Jogos com Recursividade
+# Jogo com Recursividade
 
 Atividade Avaliativa 1 — Estrutura de Dados 2026-02 — UTFPR
 Professor: Clayton Kossoski
